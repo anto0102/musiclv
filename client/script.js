@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://TUA-API.onrender.com'; // <<--- cambia qui
+const API_BASE_URL = "https://musiclvbackend.up.railway.app";
 
 async function search() {
   const query = document.getElementById("searchInput").value;
